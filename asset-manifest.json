@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nemutas/pwa_test2/static/css/main.fdc3eb59.chunk.css",
+    "main.js": "/nemutas/pwa_test2/static/js/main.42feaac3.chunk.js",
+    "main.js.map": "/nemutas/pwa_test2/static/js/main.42feaac3.chunk.js.map",
+    "runtime-main.js": "/nemutas/pwa_test2/static/js/runtime-main.bf355974.js",
+    "runtime-main.js.map": "/nemutas/pwa_test2/static/js/runtime-main.bf355974.js.map",
+    "static/js/2.7a0d6373.chunk.js": "/nemutas/pwa_test2/static/js/2.7a0d6373.chunk.js",
+    "static/js/2.7a0d6373.chunk.js.map": "/nemutas/pwa_test2/static/js/2.7a0d6373.chunk.js.map",
+    "static/js/3.1333db7c.chunk.js": "/nemutas/pwa_test2/static/js/3.1333db7c.chunk.js",
+    "static/js/3.1333db7c.chunk.js.map": "/nemutas/pwa_test2/static/js/3.1333db7c.chunk.js.map",
+    "index.html": "/nemutas/pwa_test2/index.html",
+    "service-worker.js": "/nemutas/pwa_test2/service-worker.js",
+    "service-worker.js.map": "/nemutas/pwa_test2/service-worker.js.map",
+    "static/css/main.fdc3eb59.chunk.css.map": "/nemutas/pwa_test2/static/css/main.fdc3eb59.chunk.css.map",
+    "static/js/2.7a0d6373.chunk.js.LICENSE.txt": "/nemutas/pwa_test2/static/js/2.7a0d6373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf355974.js",
+    "static/js/2.7a0d6373.chunk.js",
+    "static/css/main.fdc3eb59.chunk.css",
+    "static/js/main.42feaac3.chunk.js"
+  ]
+}
